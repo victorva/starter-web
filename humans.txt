@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+
+    Victor	victor-claudiu.vacaru@haufe-lexware 	@baubau
+
 
 # THANKS
 
