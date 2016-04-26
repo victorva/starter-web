@@ -13,7 +13,11 @@ using a web project.
 
 ## Purpose
 
+As stated above, the main purpose is simple example.
+
 ## Deployment
+
+This is a simple web project
 
 ##
  How To Contribute
