@@ -33,7 +33,7 @@ This is a simple web project
 
 
 
-### Copyright
+### Copyright 2016 
 
 
 Git.Training
