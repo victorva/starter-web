@@ -1,7 +1,7 @@
 # Starter Web Project
 
 This is a simple website project
-for showing how to use Git and Github togheter. Adding a line for rebasing, more changes from myfeature branch
+for showing how to use Git and Github togheter. Updating after stash
 
 
 ## Introduction
