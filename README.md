@@ -36,4 +36,4 @@ This is a simple web project
  Please fork this repository### Copyright 2016 
 
 
-Git.Training
+Git.Training. All rights reserved.
